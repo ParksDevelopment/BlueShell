@@ -1,6 +1,11 @@
 # BlueShell
 Open Source TKL keyboard
+
+Front of the board
 ![Front of the BlueShell keyboard](https://github.com/ParksDevelopment/BlueShell/blob/main/Images/front.jpeg)
+
+Back of the board
+![Front of the BlueShell keyboard](https://github.com/ParksDevelopment/BlueShell/blob/main/Images/back.jpeg)
 ## Tools Used
 PCB development done in kicad
 Modeling done in Shapr3D and exported as 3mf files
