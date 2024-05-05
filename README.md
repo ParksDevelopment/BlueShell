@@ -34,4 +34,4 @@ Close up of the BlueShell
 ![Close up of the BlueShell](https://github.com/ParksDevelopment/BlueShell/blob/main/Images/IMG_1698.jpeg)
 
 ## Replication
-While all the necessary files and information are present here I would advice against replicating the board. It has many flaws such as the mountaing holes mentioned earlier. It was made specifically for being produced one time and not as a simple easy to build board for a low cost. That said I still want to record the information for my own, or anyone else's, reference down the road.
+While all the necessary files and information are present here I would advice against replicating the board. It has many flaws such as the mountaing holes mentioned earlier. It was made specifically for being produced one time and not as a simple easy to build board for a low cost. That said I still want to record the information for my own, or anyone else's, reference down the road. If for whatever reason you found anything in here very helpful for any projects you have and want to support me you can [buy me a coffee](https://www.buymeacoffee.com/Parks), but there is no obligation or expectation. 
