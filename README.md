@@ -1,5 +1,6 @@
 # BlueShell
 Open Source TKL keyboard
+Mario kart theme with glowing blue shell on the front and checked race flag on the back
 
 Front of the board
 ![Front of the BlueShell keyboard](https://github.com/ParksDevelopment/BlueShell/blob/main/Images/front.jpeg)
