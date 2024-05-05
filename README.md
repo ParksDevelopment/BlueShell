@@ -1,6 +1,6 @@
 # BlueShell
 Open Source TKL keyboard
-![Front of the BlueShell keyboard]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/ParksDevelopment/BlueShell/blob/main/Images/front.jpeg))
+![Front of the BlueShell keyboard](https://github.com/ParksDevelopment/BlueShell/blob/main/Images/front.jpeg)
 ## Tools Used
 PCB development done in kicad
 Modeling done in Shapr3D and exported as 3mf files
